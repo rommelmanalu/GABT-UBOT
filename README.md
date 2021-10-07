@@ -18,27 +18,14 @@
 # KALO FORK TUH KASIH BINTANG YA TOLOL!
 
 
-### JOIN DULU TOT!!:
-
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
-
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+[<img src="https://telegra.ph/file/21e3224cf81e146acfd0e.jpg">](https://t.me/gabutjoinsini)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO GABT UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
-
-
-## Bagaimana Cara Deploy?
-
-
-* **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
 
