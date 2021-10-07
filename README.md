@@ -40,7 +40,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 ## Credit
 TERIMAKASIH UNTUK
 
-*   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
-*   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
+*   [𝐋𝐚𝐧𝐝𝐚𝐤 🦔](https://t.me/maafgausahsokap)
+*   [Rommel](https://t.me/FuckingMind_admin)
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
 *    DAN MASIH BANYAK LAGI TOT
