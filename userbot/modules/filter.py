@@ -39,11 +39,11 @@ async def filter_incoming_handler(handler):
         pass
 
 
-@register(outgoing=True, pattern=r"^Fltr (.*)")
+@register(outgoing=True, pattern=r"^.addfilter (.*)")
 async def add_new_filter(new_handler):
     """ For .filter command, allows adding new filters in a chat """
     try:
-        from userbot.modules.sql_helper.filter_sql import add_filter
+        from userbot.modules.sql_helper.addfilter_sql import add_filter
     except AttributeError:
         await new_handler.edit("`Berjalan Pada Mode Non-SQL!`")
         return
